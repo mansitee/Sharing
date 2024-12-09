@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 2 letters language code -->
+    <string name="lang">ID</string>
+    <!-- direction of the language -->
+     <string name="dir">ltr</string>
+    <string name="sharing">Membagikan</string>
+    <string name="username">nama belakang</string>
+    <string name="enter_your_user_name">Masukkan nama pengguna Anda</string>
+    <string name="submit">Kirim</string>
+    <string name="current_username">Nama pengguna saat ini:</string>
+    <string name="sharing_app">Berbagi Aplikasi</string>
+    <string name="sharing_app_purpose">Transfer dan bawa file Anda bepergian secara gratis</string>
+    <string name="sharing_app_desc">Aplikasi berbagi adalah cara sederhana dan gratis untuk membagikan data Anda</string>
+    <string name="send">Mengirim</string>
+    <string name="receive">Menerima</string>
+    <string name="available_downloads">Unduhan yang tersedia</string>
+    <string name="download">Unduh</string>
+    <string name="download_all">Unduh Semua</string>
+    <string name="no_downloads_available">Tidak ada unduhan yang tersedia</string>
+    <string name="downloads_request_error_text">Permintaan pengunduhan gagal. Mungkin terputus dari jarak jauh.</string>
+    <string name="done">Selesai</string>
+    <string name="update">Memperbarui</string>
+    <string name="uploading_is_disabled">Pengunggahan dinonaktifkan</string>
+    <string name="uploading_is_disabled_text">Anda tidak dapat mengirim file ke ponsel Anda dari browser kecuali Anda mengaktifkannya dari pengaturan</string>
+    <string name="ok">OK</string>
+    <string name="no_js">Tidak ada JavaScript? Menggunakan &lt;a href="/no-JS"&gt;HTML-only page&lt;/a&gt;</string>
+    <string name="blocked">Blocked</string>
+    <string name="your_are_blocked">Anda diblokir</string>
+    <string name="page_not_found">404 Halaman tidak ditemukan</string>
+    <string name="are_you_trying_to_find_secret">Apakah Anda mencoba mencari sesuatu yang rahasia?</string>
+    <string name="there_is_a_secret">Ada sesuatu yang rahasia dalam program ini</string>
+    <string name="messages">Pesan</string>
+    <string name="enter_message">Masukkan pesan</string>
+    <string name="remote_disconnected">Tidak dapat terhubung ke perangkat jarak jauh saat mencoba lagi </string>
+</resources
